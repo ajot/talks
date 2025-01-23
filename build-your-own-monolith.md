@@ -4,4 +4,4 @@ Not every project needs a microservice. For personal automation, a little monoli
 
 It started small, with a single workflow for **processing receipts**, but it’s grown into a hub that **transcribes voice notes**, **publishes blog posts**, **detects spam**, and more.
 
-This talk is about why everyone should build their own little monolith for personal automation—and how to make it simple to maintain and easy to grow.
+This talk is about why everyone should [build their own little monolith](https://www.digitalocean.com/community/tutorials/12-days-of-digitalocean-recap) for personal automation—and how to make it simple to maintain and easy to grow.
